@@ -1,9 +1,9 @@
-[![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)]
+![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
 
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">A passionate Frontend Developer from India.</h3>
+<h3 align="center">I'm a Web Developer. &  You are seeing my Github profile. Here, I develop project related to browsers. & That's My own Ideas.   Thank You!</h3>
 
-<img align="right" alt="Coding" width="100" src="https://digitaledgetech.in/images/Banner_03.gif">
+<img align="right" alt="Coding" width="500" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01pk&label=Profile%20views&color=0e75b6&style=flat" alt="01pk" /> </p>
 
