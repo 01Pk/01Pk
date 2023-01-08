@@ -1,4 +1,4 @@
-[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges)
+[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges)]
 
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
 <h3 align="center">A passionate Frontend Developer from India.</h3>
